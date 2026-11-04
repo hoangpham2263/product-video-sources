@@ -1,0 +1,17 @@
+{
+ "schema_version": 1,
+ "groups": [
+  {
+   "kind": "videos",
+   "name": "Mẫu",
+   "enabled": true,
+   "files": [
+    {
+     "name": "natural-product-close-to-wide-01.mp4",
+     "size": 12617136,
+     "md5": "62aa8960d25f287e74627e39c68bbbdf"
+    }
+   ]
+  }
+ ]
+}

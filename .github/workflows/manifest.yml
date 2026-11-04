@@ -1,0 +1,22 @@
+# Files added or removed (on GitHub or by a push) rebuild manifest.json, which the Product Video app reads.
+name: manifest
+on:
+  push:
+    branches: [main]
+    paths: ['products/**', 'models/**', 'videos/**']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node scripts/build-manifest.mjs
+      - run: |
+          git diff --quiet manifest.json && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git commit -m "Rebuild manifest.json"
+          git push
