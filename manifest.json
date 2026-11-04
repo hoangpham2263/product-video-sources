@@ -7,9 +7,31 @@
    "enabled": true,
    "files": [
     {
+     "name": "go-tu-nhien-day-vao-truot-01.mp4",
+     "size": 6965335,
+     "md5": "758b760ee30afd951889e2222c51190d"
+    },
+    {
      "name": "natural-product-close-to-wide-01.mp4",
      "size": 12617136,
-     "md5": "62aa8960d25f287e74627e39c68bbbdf"
+     "md5": "62aa8960d25f287e74627e39c68bbbdf",
+     "plan": {
+      "note": "Toàn cảnh chính diện -> cận mép gỗ (trượt ngang) -> toàn cảnh nghiêng; chuyển cảnh hoà hình.",
+      "shots": [
+       {
+        "start": 0,
+        "angle": "as-photo"
+       },
+       {
+        "start": 3,
+        "angle": "detail"
+       },
+       {
+        "start": 5.25,
+        "angle": "three-quarter-left"
+       }
+      ]
+     }
     }
    ]
   }
