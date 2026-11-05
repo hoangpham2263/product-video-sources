@@ -6,6 +6,8 @@ Kho cho app [Product Video](https://hoangpham.is-a.dev/product-video/).
 products/<nhóm>/<ảnh>   ảnh sản phẩm (.jpg .png .webp)
 models/<nhóm>/<ảnh>     ảnh người mẫu
 videos/<nhóm>/<video>   video (.mp4 .mov .webm)
+music/<nhóm>/<bài>      nhạc nền (.mp3 .m4a .aac .wav), chỉ nhạc được phép dùng thương mại
+samples/                video/ảnh mẫu của trang Hiệu ứng, Góc máy
 manifest.json           tự tạo lại mỗi lần thêm/xoá file
 ```
 

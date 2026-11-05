@@ -3,7 +3,7 @@ name: manifest
 on:
   push:
     branches: [main]
-    paths: ['products/**', 'models/**', 'videos/**']
+    paths: ['products/**', 'models/**', 'videos/**', 'music/**', 'scripts/**']
   workflow_dispatch:
 permissions:
   contents: write

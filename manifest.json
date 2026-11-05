@@ -34,6 +34,18 @@
      }
     }
    ]
+  },
+  {
+   "kind": "music",
+   "name": "Êm dịu",
+   "enabled": true,
+   "files": [
+    {
+     "name": "nen-em-diu-01.m4a",
+     "size": 1183472,
+     "md5": "a7b5a3fd1932429ccd608edddc3420c1"
+    }
+   ]
   }
  ]
 }
