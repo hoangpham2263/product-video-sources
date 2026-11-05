@@ -2,6 +2,28 @@
  "schema_version": 1,
  "groups": [
   {
+   "kind": "products",
+   "name": "Bàn",
+   "enabled": true,
+   "files": [
+    {
+     "name": "ban-an-tron.png",
+     "size": 668442,
+     "md5": "486ff272895ac91192bae049b37d76bf"
+    },
+    {
+     "name": "ban-tra-2.jpg",
+     "size": 451044,
+     "md5": "ce589b5a54b469c01e4312d40454ce62"
+    },
+    {
+     "name": "ban-tra.png",
+     "size": 6310217,
+     "md5": "5cf06d457b808b013592495e8f493a74"
+    }
+   ]
+  },
+  {
    "kind": "videos",
    "name": "Mẫu",
    "enabled": true,
