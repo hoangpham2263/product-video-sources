@@ -37,13 +37,169 @@
   },
   {
    "kind": "music",
-   "name": "Êm dịu",
+   "name": "Ấm áp",
    "enabled": true,
    "files": [
     {
-     "name": "nen-em-diu-01.m4a",
-     "size": 1183472,
-     "md5": "a7b5a3fd1932429ccd608edddc3420c1"
+     "name": "beautiful-dream-mixkit-493.mp3",
+     "size": 3104718,
+     "md5": "eca45497d915e0b933e45b5a5411b30e"
+    },
+    {
+     "name": "my-little-prince-mixkit-815.mp3",
+     "size": 4226447,
+     "md5": "84f8289cd09cb307fee8d24f391c7f68"
+    },
+    {
+     "name": "piano-reflections-mixkit-22.mp3",
+     "size": 6365591,
+     "md5": "3e8ee95e9e838709601d8bb8e2cc6b2a"
+    },
+    {
+     "name": "relaxation-04-mixkit-750.mp3",
+     "size": 5183737,
+     "md5": "0e144598b2a9b8ea69757b6e0f80ded1"
+    },
+    {
+     "name": "relaxation-05-mixkit-749.mp3",
+     "size": 4709354,
+     "md5": "199fd5e38c7047b58a9da2c3f5ba7386"
+    },
+    {
+     "name": "romantic-05-mixkit-759.mp3",
+     "size": 4480521,
+     "md5": "ed39a924b99f73d4b3336127c4e13d6e"
+    },
+    {
+     "name": "tears-of-joy-mixkit-839.mp3",
+     "size": 4485656,
+     "md5": "f7f7e05cdd0330f887613255cc2b7011"
+    }
+   ]
+  },
+  {
+   "kind": "music",
+   "name": "Lo-fi",
+   "enabled": true,
+   "files": [
+    {
+     "name": "lo-fi-02-mixkit-764.mp3",
+     "size": 3926725,
+     "md5": "c377bddb6a7b9a789f32bf44e59dd85c"
+    },
+    {
+     "name": "lo-fi-04-mixkit-766.mp3",
+     "size": 6574497,
+     "md5": "6112ef9fb16fff49726248fb01f9e841"
+    },
+    {
+     "name": "relax-beat-mixkit-292.mp3",
+     "size": 3458238,
+     "md5": "8ea2d959abfaed6a72f240ec2a0389f0"
+    }
+   ]
+  },
+  {
+   "kind": "music",
+   "name": "Nhẹ nhàng",
+   "enabled": true,
+   "files": [
+    {
+     "name": "forest-mist-whispers-mixkit-148.mp3",
+     "size": 4830022,
+     "md5": "1c14096821c8dd2e963a843c5a106691"
+    },
+    {
+     "name": "forest-walk-mixkit-607.mp3",
+     "size": 5577546,
+     "md5": "ea0342cf19eaa74cd0fb52361e879303"
+    },
+    {
+     "name": "relax-mixkit-658.mp3",
+     "size": 4786586,
+     "md5": "5c20224847d98ad9172c9b7fed86747b"
+    },
+    {
+     "name": "serene-view-mixkit-443.mp3",
+     "size": 3647991,
+     "md5": "59d695bb96df67dbc0f5b064d727da4a"
+    },
+    {
+     "name": "smooth-meditation-mixkit-324.mp3",
+     "size": 4920259,
+     "md5": "dfaacf814348bc185b7666196c10df01"
+    },
+    {
+     "name": "spirit-in-the-woods-mixkit-139.mp3",
+     "size": 3622988,
+     "md5": "56d98b1c367573f3a0eb1db69c92043a"
+    },
+    {
+     "name": "staring-at-the-night-sky-mixkit-168.mp3",
+     "size": 4544958,
+     "md5": "d2d3369d0b5c3e246a285540923aa381"
+    },
+    {
+     "name": "valley-sunset-mixkit-127.mp3",
+     "size": 4280902,
+     "md5": "9810dd1d658859ea615623ff5c157277"
+    },
+    {
+     "name": "vastness-mixkit-184.mp3",
+     "size": 7356125,
+     "md5": "f2bab8be87f62ca8545152df981c0f8b"
+    }
+   ]
+  },
+  {
+   "kind": "music",
+   "name": "Sang trọng",
+   "enabled": true,
+   "files": [
+    {
+     "name": "a-blue-day-mixkit-150.mp3",
+     "size": 6392337,
+     "md5": "09a21684b1e27446525f96024d0da663"
+    },
+    {
+     "name": "cinematic-jazz-mixkit-653.mp3",
+     "size": 4610207,
+     "md5": "190b9fc02cf36966b98e1c429f1614b1"
+    },
+    {
+     "name": "discover-mixkit-587.mp3",
+     "size": 4610388,
+     "md5": "ead40440289a9a29d5ef2731b4f63bae"
+    },
+    {
+     "name": "dreaming-big-mixkit-31.mp3",
+     "size": 3534262,
+     "md5": "6b0b9fef15b0fc8f1a1eab6793de5c02"
+    },
+    {
+     "name": "motivating-mornings-mixkit-33.mp3",
+     "size": 3080358,
+     "md5": "528205c20a70ee46cf0c083473cefafa"
+    },
+    {
+     "name": "possible-dreams-mixkit-599.mp3",
+     "size": 5100237,
+     "md5": "0e85383c6950d18a0285031e3a2c96a3"
+    },
+    {
+     "name": "silent-descent-mixkit-614.mp3",
+     "size": 5134509,
+     "md5": "25589e37fd9cb24951c4937ca76a8703"
+    },
+    {
+     "name": "skyline-mixkit-601.mp3",
+     "size": 6589843,
+     "md5": "bd047996c558924a8c78a82a8fca5464"
+    },
+    {
+     "name": "your-breath-mixkit-634.mp3",
+     "size": 7557001,
+     "md5": "43c089a03bf7b98aec9fe2af952b976e"
     }
    ]
   }
